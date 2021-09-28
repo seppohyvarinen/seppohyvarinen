@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am Seppo Hyvärinen, a second year student at Tampere University of Applied Sciences. <br>
+    The first year I spent learning Java and now my main focus is ECMAScript, HTML/CSS and Git.
 
 <!--
 **seppohyvarinen/seppohyvarinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
