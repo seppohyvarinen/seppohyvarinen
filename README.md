@@ -1,5 +1,15 @@
 ### Hi there 👋 I am Seppo Hyvärinen, a second year student at Tampere University of Applied Sciences. <br>
-    The first year I spent learning Java and now my main focus is ECMAScript, HTML/CSS and Git.
+### Coding is fun!
+    The first year I:
+    -Learned some Java basics and Object Oriented Programming
+    -Learned basic HTML/CSS
+    -Learned some basic SQL use
+    -Learned about scrum
+    -Participated in creating a mobile game "Tower of Life" using Java with libGDX framework (link to this repo is in my front page)
+    Currently I'm learning:
+    -ECMAScript
+    -HTML/CSS
+    -Git
 
 <!--
 **seppohyvarinen/seppohyvarinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
