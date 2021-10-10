@@ -8,8 +8,9 @@
     -Participated in creating a mobile game "Tower of Life" using Java with libGDX framework (link to this repo is in my front page)
     Currently I'm learning:
     -ECMAScript
-    -HTML/CSS
     -Git
+    -HTML/CSS
+
 
 <!--
 **seppohyvarinen/seppohyvarinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
