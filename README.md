@@ -1,5 +1,4 @@
 ### Hi there 👋 I am Seppo Hyvärinen, a second year student at Tampere University of Applied Sciences. <br>
-### Coding is fun!
     The first year I:
     -Learned some Java basics and Object Oriented Programming
     -Learned basic HTML/CSS
