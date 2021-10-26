@@ -2,7 +2,7 @@
 Currently learning:
 React
 Node.js
-Databases
+Databases <br>
 What I've learned so far:
 ECMAScript basics
 Java
