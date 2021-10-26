@@ -1,14 +1,12 @@
 ### Hi there 👋 I am Seppo Hyvärinen, a second year student at Tampere University of Applied Sciences. <br>
-    The first year I:
-    -Learned some Java basics and Object Oriented Programming
-    -Learned basic HTML/CSS
-    -Learned some basic SQL use
-    -Learned about scrum
-    -Participated in creating a mobile game "Tower of Life" using Java with libGDX framework (link to this repo is in my front page)
-    Currently I'm learning:
-    -ECMAScript
-    -Git
-    -HTML/CSS
+Currently learning:
+React
+Node.js
+Databases
+What I've learned so far:
+ECMAScript basics
+Java
+Scrum
 
 
 <!--
