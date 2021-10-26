@@ -3,7 +3,7 @@
 - React <br>
 - Node.js<br>
 - Databases <br>
-**What I've learned so far:**<br>
+**What I've learned so far:** <br>
 - ECMAScript basics<br>
 - Java<br>
 - Scrum<br>
