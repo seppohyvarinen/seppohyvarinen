@@ -1,9 +1,12 @@
 ### Hi there 👋 I am Seppo Hyvärinen, a second year student at Tampere University of Applied Sciences. <br>
 **Currently learning:** <br>
+- React Native
+- Python
+
+**What I've learned so far:** <br>
 - React <br>
 - Node.js<br>
 - Databases <br>
-**What I've learned so far:** <br>
 - ECMAScript basics<br>
 - Java<br>
 - Scrum<br>
