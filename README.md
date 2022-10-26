@@ -1,15 +1,8 @@
-### Hi there 👋 I am Seppo Hyvärinen, a second year student at Tampere University of Applied Sciences. <br>
-**Currently learning:** <br>
-- React Native
-- Python
-
-**What I've learned so far:** <br>
-- React <br>
-- Node.js<br>
-- Databases <br>
-- ECMAScript basics<br>
-- Java<br>
-- Scrum<br>
+### Hi there 👋 I am Seppo Hyvärinen, a third year student at Tampere University of Applied Sciences. <br>
+I am a JavaScript enthusiast and interested in web development, both frontend and backend. <br>
+React is my framework of choice for frontend and I usually run backends with Node.js.<br>
+Next in line for learning is deepening my knowledge of React (Redux and other state management solutions specifically) <br>
+and also getting to know TypeScript.
 
 
 <!--
