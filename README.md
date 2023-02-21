@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Seppo Hyvärinen, a third year student at Tampere University of Applied Sciences. <br>
-I am a JavaScript and Kotlin enthusiast and interested in web development (both frontend and backend) and mobile development, preferably with Android. <br>
+I am a JavaScript and Kotlin enthusiast and interested in web development (both frontend and backend). <br>
 React is my framework of choice for frontend and I usually run backends with Node.js.<br>
-For Android development besides Kotlin I use Java <br>
 Next in line for learning is deepening my knowledge of React (Redux and other state management solutions specifically) <br>
 and also getting to know TypeScript.
 
