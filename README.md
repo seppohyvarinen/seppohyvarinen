@@ -1,7 +1,8 @@
-### Hi there 👋 I am Seppo Hyvärinen, a third year student at Tampere University of Applied Sciences. <br>
+### Hi there 👋 I am Seppo Hyvärinen, a final year student at Tampere University of Applied Sciences. <br>
 I am a coding enthusiast and interested in mobile- and web development (both frontend and backend). <br>
+For mobile, I develop with Swift and Kotlin. Currently I'm doing internship as iOS App Developer<br>
 React is my framework of choice for frontend and I usually run backends with Node.js.<br>
-For mobile, I develop with Swift and Kotlin.
+
 Next in line for learning is deepening my knowledge of React (Redux and other state management solutions specifically) <br>
 and also getting to know TypeScript.
 
